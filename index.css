@@ -3,6 +3,6 @@
 } */
 .sidebar{
   width: 30%;
-  float: right;
+  float: left;
   background-color: yellow;
 }
