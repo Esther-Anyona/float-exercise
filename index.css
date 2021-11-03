@@ -1,8 +1,19 @@
 /* img{
   float: left;
 } */
-.sidebar{
+/* .sidebar{
   width: 30%;
   float: left;
   background-color: yellow;
+} */
+*{
+  background-color: aqua;
+}
+h1{
+  color: blueviolet;
+  text-align: center;
+}
+.column{
+  width: 350px;
+  float: left;
 }
